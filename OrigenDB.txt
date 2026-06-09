@@ -1,0 +1,2 @@
+*-C:\ExeDHL\Dhlfo.mdb
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\ExeDHL\Dhlfo.mdb;

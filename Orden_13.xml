@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Transaction>
+<Order>
+<ID>13</ID>
+<PosTerminal>1</PosTerminal>
+<TransType>1</TransType>
+<OrderStatus>1</OrderStatus>
+<OrderType></OrderType>
+<ServerName></ServerName>
+<Destination>PARA LLEVAR</Destination>
+<GuestTable></GuestTable>
+<UserInfo></UserInfo>
+<Item>
+<ID>1</ID>
+<TransType>1</TransType>
+<Name>COCA COLA LATA</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>0</KDSStation>
+</Item>
+<Item>
+<ID>2</ID>
+<TransType>1</TransType>
+<Name>PEPSI COLA LATA</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>0</KDSStation>
+</Item>
+</Order>
+</Transaction>

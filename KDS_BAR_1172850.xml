@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Transaction>
+<Order>
+<ID>1172850</ID>
+<PosTerminal>1</PosTerminal>
+<TransType>1</TransType>
+<OrderStatus>1</OrderStatus>
+<OrderType></OrderType>
+<ServerName></ServerName>
+<Destination>AQUI</Destination>
+<GuestTable></GuestTable>
+<UserInfo></UserInfo>
+<Item>
+<ID>1</ID>
+<TransType>1</TransType>
+<Name> A24 COMBO 2</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>2</ID>
+<TransType>1</TransType>
+<Name> A24 COMBO 4 PROMOCION</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>3</ID>
+<TransType>1</TransType>
+<Name>APP24 CON UN POLLO ENTERO</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>4</ID>
+<TransType>1</TransType>
+<Name> A24 CHORIPALITO</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>5</ID>
+<TransType>1</TransType>
+<Name> A24 CUARTO ENCUENTRO</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>6</ID>
+<TransType>1</TransType>
+<Name>EMP. PITA ISLAS GRIEGAS</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>7</ID>
+<TransType>1</TransType>
+<Name>EMP PITA POLLO</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>8</ID>
+<TransType>1</TransType>
+<Name>EMPAREDADO CHULETA</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>9</ID>
+<TransType>1</TransType>
+<Name>BAND GR PURE DE PAPAS  </Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>10</ID>
+<TransType>1</TransType>
+<Name>BAND GR ARROZ POLLO</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>11</ID>
+<TransType>1</TransType>
+<Name>PARRILLADA MIXTA CHICA</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+<Item>
+<ID>12</ID>
+<TransType>1</TransType>
+<Name> A24 EMP.PITA ISLAS GRIEGAS</Name>
+<Category></Category>
+<Quantity>1</Quantity>
+<KDSStation>1</KDSStation>
+</Item>
+</Order>
+</Transaction>

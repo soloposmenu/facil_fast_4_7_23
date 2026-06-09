@@ -1,0 +1,314 @@
+[Root]
+Most Recent Package=FAST OLE
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\MENU
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+D:\VBCONTROL\axPanel.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\archivos de programa\archivos comunes\system\ado\msadox.dll=
+c:\windows\system\mscomctl.ocx=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\windows\system\msstdfmt.dll=
+c:\windows\system\mshflxgd.ocx=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Fast_Pos\FastPos.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=No
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADOX.DLL=No
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=No
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+D:\VBCONTROL\axPanel.dll=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Fast_Pos\FastPos.exe=$(AppPath)
+D:\VBCONTROL\axPanel.dll=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Fast_Pos\FastPos.exe=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=FastPos
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\MENU
+ProjectFolder=C:\Fast_Pos
+ServerSideCab=
+File1=C:\MENU\setup.exe
+File2=C:\MENU\Setup.Lst
+File3=C:\MENU\FastPos.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|FAST OLE|SoloSoftware]
+Icon1=FastPos.exe
+Title1=FASTPOS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|FAST OLE|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Installs 2015\Fast
+
+[Package|FAST OLE|Configure DAO ISAMs]
+Applicable=No
+
+[Package|FAST OLE|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|FAST OLE|Files Found]
+SoloIni.ini=E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\SoloIni.ini
+FastPrintServer.exe=E:\11JUN2013\SOLOSOFTWARE\FastPrintServer\FastPrintServer.exe
+
+[Package|FAST OLE|Files Released]
+
+[Package|FAST OLE|Missing Dependency Information]
+D:\VBCONTROL\axPanel.dll=
+C:\Opos\EPSON\COCASH.OCX=
+C:\Opos\EPSON\COPTR.OCX=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado21.tlb=
+C:\Fast_Ole\axPanel.dll=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=
+C:\WINDOWS\system32\msjro.dll=
+D:\SOLOSOFTWARE\Fast_Ole\axPanel.dll=
+C:\Program Files\OPOS\Epson2\OPOSPOSPrinter.ocx=
+C:\Program Files\OPOS\Epson2\OPOSLineDisplay.ocx=
+C:\Program Files\OPOS\Epson2\OPOSCashDrawer.ocx=
+C:\Program Files\Chilkat Software Inc\Chilkat Mail ActiveX\ChilkatMail_v7_9.dll=
+C:\Program Files\Common Files\System\ado\msjro.dll=
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\axPanel.dll=
+C:\Program Files\Common Files\System\ado\msadox.dll=
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\FastPrintServer.exe=
+
+[Package|FAST OLE|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Program Files\Common Files\Data Dynamics\SharpGrid\sg20o.ocx=
+C:\Windows\System32\MSCOMCTL.OCX=
+
+[Package|FAST OLE|Files Added]
+soloini.ini=
+e:\11jun2013\solosoftware\fast_ole\ventalog.txt=
+e:\11jun2013\solosoftware\fast_ole\email.ini=
+e:\11jun2013\solosoftware\fast_ole\inoutlog.txt=
+fastprintserver.exe=
+
+[Package|FAST OLE|Files Removed]
+c:\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+d:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|FAST OLE|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\FastPos.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msadox.dll=Yes
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\axPanel.dll=Yes
+C:\Program Files\Common Files\System\ado\msjro.dll=Yes
+C:\Program Files\Chilkat Software Inc\Chilkat Mail ActiveX\ChilkatMail_v7_9.dll=Yes
+C:\Windows\System32\Mscomct2.ocx=Yes
+C:\Program Files\Common Files\Data Dynamics\SharpGrid\sg20o.ocx=Yes
+C:\Program Files\OPOS\Epson2\OPOSCashDrawer.ocx=Yes
+C:\Program Files\OPOS\Epson2\OPOSLineDisplay.ocx=Yes
+C:\Program Files\OPOS\Epson2\OPOSPOSPrinter.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\SoloIni.ini=Yes
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\VENTALOG.TXT=Yes
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\email.ini=Yes
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\INOUTLOG.TXT=Yes
+E:\11JUN2013\SOLOSOFTWARE\FastPrintServer\FastPrintServer.exe=Yes
+
+[Package|FAST OLE|Configure Registry Files]
+Applicable=No
+
+[Package|FAST OLE|Configure Remote Servers]
+Applicable=No
+
+[Package|FAST OLE|Install Locations]
+C:\Fast_Pos\FastPos.exe=$(AppPath)
+D:\VBCONTROL\axPanel.dll=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Fast_Ole\FastPos.exe=$(AppPath)
+C:\Opos\EPSON\COPTR.OCX=$(WinSysPath)
+C:\Opos\EPSON\COCASH.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado21.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\axPanel.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Fast_Ole\axPanel.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Fast_Ole\SoloIni.ini=$(AppPath)
+C:\WINSOLO\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINSOLO\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINSOLO\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINSOLO\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINSOLO\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\SOLOSOFTWARE\Fast_Ole\FastPos.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msadox.dll=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+D:\SOLOSOFTWARE\Fast_Ole\axPanel.dll=$(WinSysPath)
+C:\WINDOWS\system32\msjro.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\SOLOSOFTWARE\Fast_Ole\SoloIni.ini=$(AppPath)
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\FastPos.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msadox.dll=$(WinSysPath)
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\axPanel.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msjro.dll=$(WinSysPath)
+C:\Program Files\Chilkat Software Inc\Chilkat Mail ActiveX\ChilkatMail_v7_9.dll=$(WinSysPath)
+C:\Windows\System32\Mscomct2.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\SharpGrid\sg20o.ocx=$(WinSysPath)
+C:\Program Files\OPOS\Epson2\OPOSCashDrawer.ocx=$(WinSysPath)
+C:\Program Files\OPOS\Epson2\OPOSLineDisplay.ocx=$(WinSysPath)
+C:\Program Files\OPOS\Epson2\OPOSPOSPrinter.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\SoloIni.ini=$(AppPath)
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\VENTALOG.TXT=$(AppPath)
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\email.ini=$(AppPath)
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\INOUTLOG.TXT=$(AppPath)
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\FastPrintServer.exe=$(AppPath)
+E:\11JUN2013\SOLOSOFTWARE\FastPrintServer\FastPrintServer.exe=$(AppPath)
+
+[Package|FAST OLE|Configure Shared Files]
+Applicable=Yes
+C:\Fast_Pos\FastPos.exe=Yes
+C:\Fast_Ole\FastPos.exe=No
+C:\Fast_Ole\SoloIni.ini=Yes
+D:\SOLOSOFTWARE\Fast_Ole\FastPos.exe=No
+D:\SOLOSOFTWARE\Fast_Ole\SoloIni.ini=No
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\FastPos.exe=No
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\SoloIni.ini=No
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\VENTALOG.TXT=No
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\email.ini=No
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\INOUTLOG.TXT=No
+E:\11JUN2013\SOLOSOFTWARE\Fast_Ole\FastPrintServer.exe=No
+E:\11JUN2013\SOLOSOFTWARE\FastPrintServer\FastPrintServer.exe=No
+
+[Package|FAST OLE|Distribution]
+Type=single
+Size=
+Title=Fast POS 10.6
+
+[Package|FAST OLE|IconGroups]
+Group0=Solo Software
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|FAST OLE|Solo Software]
+Icon1=FastPos.exe
+Title1=FASTPOS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|FAST OLE|Package]
+PackageFolder=E:\Installs 2015\Fast
+ProjectFolder=E:\11JUN2013\SOLOSOFTWARE\Fast_Ole
+ServerSideCab=
+File1=E:\Installs 2015\Fast\setup.exe
+File2=E:\Installs 2015\Fast\Setup.Lst
+File3=E:\Installs 2015\Fast\FastPos.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
